@@ -10,3 +10,5 @@ You can choose whether to click a pic or select from the camera and when you do 
 
 ## How it looks like
 (Gif)
+
+![fd](https://user-images.githubusercontent.com/15246084/41511778-383b7f24-729b-11e8-9657-186d27f61411.gif)
